@@ -1,9 +1,9 @@
+# p1 -> build a block chain
+
 import datetime
 import hashlib
 import json
 from flask import flask, jsonify
-
-# p1 -> build a block chain
 
 class BLOCKCHAIN
     
